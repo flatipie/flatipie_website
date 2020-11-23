@@ -4650,6 +4650,7 @@ ol {
 .u-text a,
 .u-blog-control a,
 .u-tab-item a,
+
 .u-nav-item a {
   font-style: inherit;
   font-size: inherit;
@@ -4658,6 +4659,7 @@ ol {
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
+
 }
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc) a {
   color: inherit;
@@ -4749,6 +4751,7 @@ a {
 }
 .u-image.u-logo img {
   display: block;
+
 }
 .u-form-horizontal {
   display: flex;
@@ -14172,7 +14175,6 @@ div.u-video,
   padding: 8px 0;
   white-space: normal;
 }
-.u-nav,
 .u-nav-item {
   position: relative;
 }
@@ -31267,6 +31269,7 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
 .u-header {
   background-image: none;
+
 }
 
 .u-header .u-sheet-1 {
